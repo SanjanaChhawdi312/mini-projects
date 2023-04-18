@@ -1,2 +1,2 @@
 # mini-projects
-It contains some mini projects I programmed and also other documents related to major projects.
+It contains some mini, easy codes I programmed using important concepts I learned during each semesters.
